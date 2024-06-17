@@ -1,0 +1,14 @@
+.DS_Store
+venv
+**/__pycache__/
+**/.ipynb_checkpoints/
+*/resources/data/*
+*.egg-info/
+.installed.cfg
+*.egg
+build/
+eggs/
+dist/
+cloud-sql-proxy
+.vscode
+

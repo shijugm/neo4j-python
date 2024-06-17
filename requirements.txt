@@ -1,0 +1,5 @@
+setuptools
+wheel
+neo4j
+apache-beam
+apache-beam[gcp]
